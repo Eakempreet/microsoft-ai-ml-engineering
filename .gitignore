@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.ipynb_checkpoints/
+
+# Environments
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Course-specific
+# 01-foundations-of-ai-ml/large-datasets/
