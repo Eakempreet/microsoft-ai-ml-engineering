@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 *.ipynb_checkpoints/
+csv/
 
 # Environments
 *.env
@@ -13,3 +14,10 @@ Thumbs.db
 
 # Course-specific
 # 01-foundations-of-ai-ml/large-datasets/
+# Course specific
+01-foundations-of-ai-ml/large-datasets/
+*.pth
+*.keras
+*.parquet
+cifer_dataset/
+data/
