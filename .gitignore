@@ -19,5 +19,7 @@ Thumbs.db
 *.pth
 *.keras
 *.parquet
+*.npz
+*.npy
 cifer_dataset/
 data/
